@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=katdevelopments&label=Profile%20views&color=0e75b6&style=flat" alt="katdevelopments" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=katdevelopments)](https://github.com/katdevelopments/github-profile-trophy)
-
 - 📫 How to reach me **dmoosn@pm.me**
 
 <h3 align="left">Connect with me:</h3>
@@ -22,6 +20,5 @@
 <p align="left"> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=katdevelopments&show_icons=true" alt="katdevelopments GitHub stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=katdevelopments" alt="katdevelopments" width="48%" />
 </p>

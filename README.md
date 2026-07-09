@@ -1,7 +1,7 @@
 <h1 align="center">Hello, I'm Kat</h1>
 <h3 align="center">I am a full-stack developer who builds high-performance tools, executors, and websites.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=katdevelopments&label=Profile%20views&color=0e75b6&style=flat" alt="katdevelopments" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=katdevelopments&label=Profile%20views&color=0e75b6&style=flat" alt="katdevelopments" /> </p>
 
 - 📫 How to reach me **dmoosn@pm.me**
 
